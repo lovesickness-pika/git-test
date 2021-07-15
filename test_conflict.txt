@@ -1,1 +1,3 @@
-input by main
+delete by hot
+
+add by hot
