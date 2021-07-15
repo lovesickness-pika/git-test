@@ -1,4 +1,6 @@
 git tpdate
 
 
-add online
+delete online
+
+add other online
